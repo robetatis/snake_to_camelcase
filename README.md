@@ -1,4 +1,4 @@
-**Convert snake to camel case** 
+**Convert snake to camel case in dictionary keys** 
 
 ```console
 $ python3 main.py
